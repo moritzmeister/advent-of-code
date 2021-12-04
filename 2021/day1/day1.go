@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	var path string = "../inputs/day-1.txt"
+	var path string = "inputs/day-1.txt"
 	//var tpath string = "../inputs/day-1-test.txt"
 	fmt.Println("Final part1 increase count: ", part1(path))
 	fmt.Println("Final part2 increase count: ", part2(path))
